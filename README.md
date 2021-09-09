@@ -3,14 +3,13 @@
 
    <p>
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rashidul-islam-547251155/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rashidul420222/)
+ ![](https://komarev.com/ghpvc/?username=Rashidul420222&color=green)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rashidul-islam-547251155/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rashidul420222/) [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/rashidul-islam-the-bold)
+
 
 </p>
 
-
 --- 
-
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=Rashidul420222&color=green)
 
 I am a flutter software engineer and trainer. I love programming, writing, speaking and traveling.
 
@@ -28,11 +27,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ---
 
 📈 **My GitHub Stats:**
+Languages| Github Stats
+:------------:|:------------:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidul420222)|<img  height="280em" src="https://github-readme-stats.vercel.app/api?username=Rashidul420222&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidul420222) <img  height="285em" src="https://github-readme-stats.vercel.app/api?username=Rashidul420222&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-</p>
 
 ---
+
