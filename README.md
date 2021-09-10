@@ -52,13 +52,13 @@ Languages|Github Stats
 
 **🐱 My Github Data** 
 
-> 🏆 56 Contributions in the Year 2021
+> 🏆 55 Contributions in the Year 2021
  > 
 > 📦 111.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
