@@ -89,13 +89,13 @@ Sunday       8 commits      ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 14 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  2 hrs 14 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 14 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
