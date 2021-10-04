@@ -54,7 +54,7 @@ Languages|Github Stats
 
 > 🏆 55 Contributions in the Year 2021
  > 
-> 📦 111.3 kB Used in GitHub's Storage 
+> 📦 111.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -115,5 +115,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Rashidul420222/Rashidul420222/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/10/2021
+ Last Updated on 04/10/2021
 <!--END_SECTION:waka-->
