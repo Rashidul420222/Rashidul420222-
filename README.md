@@ -48,27 +48,27 @@ Languages|Github Stats
 
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103410%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104326%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 55 Contributions in the Year 2021
+> 🏆 60 Contributions in the Year 2021
  > 
 > 📦 111.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 24 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     11 repos            █████████████████░░░░░░░░   68.75% 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+Dart                     12 repos            █████████████████░░░░░░░░   70.59% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
 
