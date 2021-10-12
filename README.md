@@ -48,11 +48,11 @@ Languages|Github Stats
 
 ---
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104326%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104337%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 60 Contributions in the Year 2021
+> 🏆 61 Contributions in the Year 2021
  > 
 > 📦 111.4 kB Used in GitHub's Storage 
  > 
@@ -78,5 +78,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Rashidul420222/Rashidul420222/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/10/2021
+ Last Updated on 12/10/2021
 <!--END_SECTION:waka-->
