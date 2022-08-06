@@ -36,7 +36,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 Languages|Github Stats
 :--------:|:--------:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashidulApp) | <img  height="280em" src="https://github-readme-stats.vercel.app/api?username=Rashidul420222&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashidulApp) | <img  height="280em" src="https://github-readme-stats.vercel.app/api?username=RashidulApp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 
