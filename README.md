@@ -69,7 +69,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/RashidulApp/RashidulApp/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Rashidul420222/Rashidul420222/main/charts/bar_graph.png) 
 
 
  Last Updated on 05/11/2021
