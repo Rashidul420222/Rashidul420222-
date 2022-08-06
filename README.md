@@ -22,7 +22,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Data Structures and Algorithms on ;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: rashidul420222@gmail.com
+- 📫 How to reach me: rashidul.app@gmail.com
 
 ---
 
