@@ -30,13 +30,13 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 **My GitHub Stats:**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rashidul420222&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RashidulApp&theme=vue-dark)](https://git.io/streak-stats)
 
 
 
 Languages|Github Stats
 :--------:|:--------:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidul420222) | <img  height="280em" src="https://github-readme-stats.vercel.app/api?username=Rashidul420222&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RashidulApp) | <img  height="280em" src="https://github-readme-stats.vercel.app/api?username=Rashidul420222&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 
